@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/k-fillmore.github.io/battery-visualizer/static/css/main.d20c804c.chunk.css",
-    "main.js": "/k-fillmore.github.io/battery-visualizer/static/js/main.28b380cb.chunk.js",
-    "main.js.map": "/k-fillmore.github.io/battery-visualizer/static/js/main.28b380cb.chunk.js.map",
-    "runtime-main.js": "/k-fillmore.github.io/battery-visualizer/static/js/runtime-main.75b81d02.js",
-    "runtime-main.js.map": "/k-fillmore.github.io/battery-visualizer/static/js/runtime-main.75b81d02.js.map",
-    "static/js/2.f676a951.chunk.js": "/k-fillmore.github.io/battery-visualizer/static/js/2.f676a951.chunk.js",
-    "static/js/2.f676a951.chunk.js.map": "/k-fillmore.github.io/battery-visualizer/static/js/2.f676a951.chunk.js.map",
-    "static/js/3.01c9752f.chunk.js": "/k-fillmore.github.io/battery-visualizer/static/js/3.01c9752f.chunk.js",
-    "static/js/3.01c9752f.chunk.js.map": "/k-fillmore.github.io/battery-visualizer/static/js/3.01c9752f.chunk.js.map",
-    "index.html": "/k-fillmore.github.io/battery-visualizer/index.html",
-    "static/css/main.d20c804c.chunk.css.map": "/k-fillmore.github.io/battery-visualizer/static/css/main.d20c804c.chunk.css.map",
-    "static/js/2.f676a951.chunk.js.LICENSE.txt": "/k-fillmore.github.io/battery-visualizer/static/js/2.f676a951.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/k-fillmore.github.io/battery-visualizer/static/media/logo.6ce24c58.svg"
+    "main.css": "/battery-visualizer/static/css/main.d20c804c.chunk.css",
+    "main.js": "/battery-visualizer/static/js/main.28b380cb.chunk.js",
+    "main.js.map": "/battery-visualizer/static/js/main.28b380cb.chunk.js.map",
+    "runtime-main.js": "/battery-visualizer/static/js/runtime-main.d3a2d9f6.js",
+    "runtime-main.js.map": "/battery-visualizer/static/js/runtime-main.d3a2d9f6.js.map",
+    "static/js/2.f676a951.chunk.js": "/battery-visualizer/static/js/2.f676a951.chunk.js",
+    "static/js/2.f676a951.chunk.js.map": "/battery-visualizer/static/js/2.f676a951.chunk.js.map",
+    "static/js/3.01c9752f.chunk.js": "/battery-visualizer/static/js/3.01c9752f.chunk.js",
+    "static/js/3.01c9752f.chunk.js.map": "/battery-visualizer/static/js/3.01c9752f.chunk.js.map",
+    "index.html": "/battery-visualizer/index.html",
+    "static/css/main.d20c804c.chunk.css.map": "/battery-visualizer/static/css/main.d20c804c.chunk.css.map",
+    "static/js/2.f676a951.chunk.js.LICENSE.txt": "/battery-visualizer/static/js/2.f676a951.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/battery-visualizer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75b81d02.js",
+    "static/js/runtime-main.d3a2d9f6.js",
     "static/js/2.f676a951.chunk.js",
     "static/css/main.d20c804c.chunk.css",
     "static/js/main.28b380cb.chunk.js"
